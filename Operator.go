@@ -35,3 +35,17 @@ func main() {
 	fmt.Println(a && b)
 	fmt.Println(!a)
 }
+
+
+package main
+
+import "fmt"
+
+func main() {
+	var (
+		a int = 6
+		b int = 7
+	)
+	fmt.Println(a == b)
+}
+
