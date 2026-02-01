@@ -81,6 +81,8 @@ Popular technologies like **Docker**, **Kubernetes**, and **Terraform** are buil
 ✔ Scales well for large systems
 ✔ Industry-friendly and in high demand
 
+---
+
 ### 🔹 Summary
 
 Go is a **modern, efficient, and scalable programming language** designed for building **high-performance backend and cloud-based applications**. Its balance of simplicity, speed, and concurrency makes it a strong choice for both beginners and professional developers.
