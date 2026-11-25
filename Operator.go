@@ -19,6 +19,11 @@ func main() {
 	b := 20
 	c := 45
 	f := 56
+	fmt.Println(a + b)
+	fmt.Println(a - b)
+	fmt.Println(a * b)
+	fmt.Println(a / b)
+	fmt.Println(a % b)
 
 	fmt.Println(c + f);
 	fmt.Println(c / b);
